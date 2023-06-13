@@ -15,3 +15,7 @@ Fritz, does not want to play his luck any longer and decided to get active. He r
 outside and inside of his bedroom for the last two years. Now he would like to find a prediction that,
 given the outside temperature, as well as a certain configuration of his flat, tells him how cold or warm
 his bedroom will become.
+
+# Challenge 3: Facial Expression Classification.
+We have been given 20 000 (35,35) Images and we have been asked to classify the emoji into three different classes: Sad, Happy and Angry.
+For this task we used a CNN and got an accuacy of 98%.
